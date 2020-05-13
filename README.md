@@ -4,7 +4,7 @@ Http isteği ile çalışan ping sunucusu
 
 ## Kurulum:
 
-```shell
+```
 git clone https://github.com/AfatekDevelopers/pingserver_http_go.git
 cd pingserver_http_go/devafatekpingserver
 go mod init github.com/AfatekDevelopers/pingserver_http_go/devafatekpingserver
