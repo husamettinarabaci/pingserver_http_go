@@ -15,7 +15,7 @@ sudo ./devafatekpingserver  -port 10001
 ./devafatekpingserver -h
 ```
 
-## Usage
+## Usage:
 
 ```
 http://127.0.0.1:{port}?ipaddress=192.168.1.1&count=5&timeout=5&v=1
