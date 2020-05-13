@@ -11,7 +11,7 @@ go mod init github.com/AfatekDevelopers/pingserver_http_go/devafatekpingserver
 go get
 go build
 sudo ./devafatekpingserver  -port 10001
-#or
+#veya
 ./devafatekpingserver -h
 ```
 
